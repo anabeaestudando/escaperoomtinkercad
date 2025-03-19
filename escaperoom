@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Circuitos Interativos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo aos Meus Circuitos Interativos</h1>
+        <p>Explore meus projetos de circuitos criados no Tinkercad.</p>
+    </header>
+
+    <section>
+        <h2>Circuito 1:Sistema de Radiação</h2>
+        <p>Clique abaixo para ver o circuito:</p>
+        <a href=https://www.tinkercad.com/things/6rEihlR1ilz-sistema-de-radiacao?sharecode=8qv7xZIOnZVkPAOIlqkyPKtbVLAMoV_ExsnHJN49zVw target="_blank">
+            <button>Visualizar Circuito 1</button>
+        </a>
+    </section>
+
+    <section>
+        <h2>Circuito 2: Pisca-pisca</h2>
+        <p>Clique abaixo para ver o circuito:</p>
+        <a href="https://www.tinkercad.com/things/63YMo1z1owO-controle-de-acesso-termico-1-?sharecode=9cHdd9uuSHviMQGATH2Ya9TfXAkhOus7JI_v_mInxyA" target="_blank">
+            <button>Visualizar Circuito 2</button>
+        </a>
+    </section>
+
+    <section>
+        <h2>Circuito 3: Motor com Arduino</h2>
+        <p>Clique abaixo para ver o circuito:</p>
+        <a href="https://www.tinkercad.com/things/51QYyAQHxMb-teclado-matricial-2-?sharecode=oKCVAAo3pFyxtSxcsRiMoOATg7K1UMB0L3utlap2wfs" target="_blank">
+            <button>Visualizar Circuito 3</button>
+        </a>
+    </section>
+
+    <section>
+        <h2>Circuito 4: Sensor de Temperatura</h2>
+        <p>Clique abaixo para ver o circuito:</p>
+        <a href="https://www.tinkercad.com/things/0usTOBVzWYh-porta-dos-potenciomentros-3?sharecode=KMF63PBayenbvlqxxTvyzbcVcYRwPIXle4JXZrEchoE" target="_blank">
+            <button>Visualizar Circuito 4</button>
+        </a>
+    </section>
+
+    <section>
+        <h2>Circuito 5: Alarme de Segurança</h2>
+        <p>Clique abaixo para ver o circuito:</p>
+        <a href="https://www.tinkercad.com/things/cVD1Jn36Hw6-somatorio-dos-algarismos?sharecode=v9aecA27EXt-f0LGitCZ8TiNMnowUToe6GbHRX2tJtM" target="_blank">
+            <button>Visualizar Circuito 5</button>
+        </a>
+    </section>
+
+    <section>
+        <h2>Circuito 6: Luz Automática</h2>
+        <p>Clique abaixo para ver o circuito:</p>
+        <a href="https://www.tinkercad.com/things/1jgTuoKidm0-temporizador-inicial?sharecode=essUrxo5Pw4G4eQVdYDrzTSKWyt6lnO7U-NPeAagjU4" target="_blank">
+            <button>Visualizar Circuito 6</button>
+        </a>
+    </section>
+
+    <footer>
+        <p>Feito por [Seu Nome].</p>
+    </footer>
+</body>
+</html>
